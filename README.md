@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Parv Vijayvargiya
 
 🚀 About Me
 
@@ -46,9 +46,8 @@ Developing a search feature for users based on phone numbers
 
 📫 Let's Connect!
 
-GitHub: github.com/your-username
+GitHub: github.com/ParvVijay01
 
-LinkedIn: linkedin.com/in/your-profile
-
-Email: your.email@example.com
+LinkedIn: [linkedin.com/in/ParvVijayvargiya](https://www.linkedin.com/in/parv-vijayvargiya-861487204/)
+Email: parvvj2000@gmail.com
 

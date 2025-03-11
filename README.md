@@ -1,55 +1,29 @@
-Hi there! 👋 I'm Parv Vijayvargiya
+<h1 align="center">Hi 👋, I'm Parv Vijayvargiya</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
-🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvvijay01&label=Profile%20views&color=0e75b6&style=flat" alt="parvvijay01" /> </p>
 
-I'm a Flutter Developer at JeeVijay Technologies, specializing in building cross-platform applications with Flutter Web & Mobile. I have experience working on multiple eCommerce projects using Node.js for the backend and Provider for state management.
+- 🔭 I’m currently working on [Telecommunicator](https://github.com/ParvVijay01/telecommunicator)
 
-💻 Tech Stack
+- 🌱 I’m currently learning **Node, MongoDB, React Native, Flutter, Dart**
 
-Frontend: Flutter (Mobile & Web), Provider, Material Design
+- 💬 Ask me about **Flutter, Node**
 
-Backend: Node.js, Express.js, MongoDB, PHP
+- 📫 How to reach me **parvvj2000@gmail.com**
 
-State Management: Provider
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S_Z-db7H6fe2q_xC1QEWgwU06BOcbbux/view?usp=sharing](https://drive.google.com/file/d/1S_Z-db7H6fe2q_xC1QEWgwU06BOcbbux/view?usp=sharing)
 
-Database: MongoDB
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parv-vijayvargiya-861487204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parv-vijayvargiya-861487204/" height="30" width="40" /></a>
+<a href="https://instagram.com/_parvvvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_parvvvv" height="30" width="40" /></a>
+</p>
 
-Hosting: Hostinger
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-Authentication: Firebase (OTP-based authentication)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvvijay01&show_icons=true&locale=en&layout=compact" alt="parvvijay01" /></p>
 
-🔥 Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvvijay01&show_icons=true&locale=en" alt="parvvijay01" /></p>
 
-📸 Photography Showcase Website
-
-Tech Stack: Flutter Web, PHP, MongoDB, Node.js
-
-Features: Home, Contact, Gallery with categorized images
-
-Admin Panel: Upload & manage categories and images
-
-🛍️ Plywood Company Rewards App
-
-Tech Stack: Flutter, Node.js, MongoDB
-
-Features: Customer purchase tracking, reward points system, voucher redemption
-
-Admin Panel: Approve/reject purchases & redemptions, analytics dashboard
-
-📌 Ongoing Work
-
-Implementing a draggable dock in Flutter similar to macOS
-
-Enhancing the subscription screen UI for a Flutter project
-
-Developing a search feature for users based on phone numbers
-
-📫 Let's Connect!
-
-GitHub: github.com/ParvVijay01
-
-LinkedIn: [linkedin.com/in/ParvVijayvargiya](https://www.linkedin.com/in/parv-vijayvargiya-861487204/)
-
-
-Email: parvvj2000@gmail.com
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvvijay01&" alt="parvvijay01" /></p>
